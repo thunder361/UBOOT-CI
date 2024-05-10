@@ -21,7 +21,7 @@ jobs:
       #编译平台
       WRT_TARGET: Mediatek-798x
       #默认源码
-      WRT_URL: https://github.com/hanwckf/bl-mt798x.git
+      WRT_URL: https://github.com/thunder361/bl-mt798x.git
       #默认分支
       WRT_BRANCH: master
       #默认ATF版本
