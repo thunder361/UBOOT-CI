@@ -12,6 +12,7 @@ SOC=mt7981 BOARD=jcg_q30 ./build.sh
 SOC=mt7981 BOARD=konka_komi-a31 ./build.sh
 SOC=mt7981 BOARD=livinet_zr-3020 ./build.sh
 
+SOC=mt7986 BOARD=netcore_n60 ./build.sh
 SOC=mt7986 BOARD=glinet_gl-mt6000 ./build.sh
 SOC=mt7986 BOARD=jdcloud_re-cp-03 ./build.sh
 SOC=mt7986 BOARD=ruijie_rg-x60-pro ./build.sh
